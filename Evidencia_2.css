@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+		font-family: 'Kanit', sans-serif;
+	color:black;
+}
+
+body{
+	
+	background-color:#FEF1FD ;
+
+	
+}
+main{
+	background-color:#CEE9F9;
+	overflow: auto;
+}
+
+footer{
+	font-size: 1em;
+}
+
+.navbar-brand{
+    font-family: 'Delicious Handrawn', cursive;
+	font-size:3em ;
+	color:black;
+}
+
+.navbar-collapse{
+    font-family: 'Gruppo', cursive;
+	font-size:3em ;
+	color:black;
+	background-color:#E7D1A6 ;
+
+}
+.encabezado{
+	font-family: 'Kanit', sans-serif;
+	font-size:3em ;
+	color:black;
+	 
+	
+}
+
+.figure-caption{	
+
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6 ;
+	color: black;
+	font-size:2.5em ;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.parrafo{	
+	font-family: 'Fjalla One', sans-serif;
+	background-color:PapayaWhip;
+}
+
+.parrafito{	
+	font-family: 'IBM Plex Mono', monospace;
+	background-color:#876F42  ;
+	font-size:3em ;
+	color:black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parrafitoS{	
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6 ;
+	font-size:3em ;
+	color:black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parrafitoN{	
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6 ;
+	font-size:3em ;
+	color:black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjetacentrado{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjetitas
+{	
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6 ;
+	color: black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tarjetitasS
+{	
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6  ;
+	color: black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.tarjetitasN
+{	
+	font-family: 'Gruppo', cursive;
+	background-color:#E7D1A6 ;
+	color: black;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.parrafo{	
+	font-family: 'Gruppo', cursive;
+	background-color:PapayaWhip;
+}
+
+
+.pie_pagina{
+	font-family: 'Gruppo', cursive;
+	font-size:1.8em ;
+	color:black;
+	background-color:#E7D1A6 ;
+}
+
+.imagen{
+	background-color: papayawhip;
+}
+
+
+.pie_pagina{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	font-family: 'Gruppo', cursive;;
+	font-size:1.8em ;
+	color:black;
+	background-color:#E7D1A6 ;
+}
+
